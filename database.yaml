@@ -1,0 +1,6 @@
+username: "postgres"
+password: "a0a65e9085b36e6b3f86fe9cf5401f6d03b9880f"
+host: "127.0.0.1"
+port: 5432
+databaseName: "dartback"
+
